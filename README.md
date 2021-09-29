@@ -2,7 +2,10 @@
 中国石油大学（华东）控制科学与工程学院 文献综述与开题报告Latex模板
 只需要更改contents目录下，的三个内容
 
-参考文献改reference下
+参考文献改reference
+
+by B1216实验室
+
 ```
 
 UPC_LATEX
@@ -21,5 +24,5 @@ UPC_LATEX
 │   └── xxx
 └── ...
 ...
+```
 
-by B1216实验室
